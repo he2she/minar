@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "compiler-polyfill": "^1.1.0",
-    "minar-platform": "^1.0.0",
+    "minar-platform": "he2she/minar-platform#v1.1.0",
     "core-util": "^1.0.0"
   },
   "testDependencies": {
